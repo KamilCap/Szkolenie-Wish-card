@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Tabela1" max_length="40" name="x_803447_wish_list_tabela1" type="collection">
+        <element label="TEST" max_length="40" name="test" reference="agent_file" type="boolean"/>
+    </element>
+</database>
